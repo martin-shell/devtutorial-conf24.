@@ -25,7 +25,7 @@ jobs:
       - name: Build an app using UCC
         run: ucc-gen build
 
-      - name: Create tmp folder
+      - name: Create tmp folder!
         run: mkdir app-dir
       
       - name: Create package
